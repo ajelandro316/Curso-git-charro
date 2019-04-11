@@ -5,4 +5,5 @@
 * Guason
 * Lex Luthor
 * El enchilargas
-* 
+* Mr. Cacas
+* Puthanos
