@@ -5,3 +5,7 @@
 * Daredevil
 * Aquaman
 * Mujer Maravilla
+* Shazam
+* DeadPool
+* Spider-Man
+* Saitama
